@@ -20,8 +20,9 @@ What are the benefits of OOP?
 - Easier to debug
 - Secure, protects information through encapsulation
 - Reusable, can be used across programs
+** implementing OOP allows for better data structures and reusability, saving time
 
-Summary:
+Summary: Four principles of OOP
 1) Encapsulation --> Data hiding using getters and setters
 2) Abstraction ---> We care about Interface. Not the implementation behind the hood
 3) Inheritance ---> Extending classes... Access modifiers: public, private, modifier
