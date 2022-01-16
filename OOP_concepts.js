@@ -8,12 +8,15 @@ which are used to create individual instances of objects.
  JavaScript, C++, Java, and Python
 
 What is a class?
+- the blueprint/plan/template that describes the details of an object
 - an abstract blueprint used to create more specific, concrete objects
 - classes often represent broad categories, like Car or Dog that share attributes
 - classes are templates for objects
 
 What is an object?
-- Objects are instances of class
+- is an instance of a class
+- has its own state, behavior, and identity
+
 
 What are the benefits of OOP?
 - Allows for class-specific behavior through polymorphism
